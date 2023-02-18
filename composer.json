@@ -1,0 +1,19 @@
+{
+    "name": "mayako/http-client",
+    "description": "HTTP Client",
+    "type": "library",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "Mayako\\HttpClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yakin",
+            "email": "mayako.0413@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
